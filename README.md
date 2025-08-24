@@ -6,3 +6,5 @@ Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project
 2.Applied data preprocessing and augmentation techniques (resizing, normalization, flipping, rotation) to improve model generalization and prevent overfitting.
 
 3.Evaluated and deployed the model with metrics such as accuracy and loss curves, and demonstrated prediction on new unseen images.
+
+4.In this test and train are the dataset used for the project.
